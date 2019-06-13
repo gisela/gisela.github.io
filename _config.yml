@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gisela Bäcklander, work scientist"
 title_separator          : "-"
 name                     : &name "Gisela Bäcklander"
-description              : &description "doktoral student, KTH Royal Institute of Technology"
+description              : &description "doctoral student, KTH Royal Institute of Technology"
 url                      : https://gisela.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gisela/gisela.github.io"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Gisela Bäcklander"
-  avatar           : "profile.png"
+  avatar           : "gisela_sormland.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Stockholm"
   employer         : "KTH Royal Insitute of Technology"
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.se/citations?user=S_yC2xYAAAAJ&hl=sv"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Gisela_Baecklander"

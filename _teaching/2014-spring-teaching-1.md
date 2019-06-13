@@ -1,20 +1,27 @@
 ---
-title: "Teaching experience 1"
+title: "Team leadership & HRM"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Avancerad nivå"
+permalink: /teaching/2013-spring-teaching-1
+venue: "Kungliga Tekniska Högskolan, Industriell Ekonomi & Organisation"
+date: 2013-01-01
+location: "Stockholm"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+2013
 ======
+* Föreläsning "Motivation & self-leadership"
+* Administrativt ansvar så som: sköta kontakter med 20 lärarassistenter, förbereda övningsmaterial, uppdatera kurshemsidan (Bilda), skriva några tentafrågor samt rätta dem (190 tentor).
 
-Heading 2
+2014
 ======
+* Föreläsningar "Motivation & self-leadership", "Introduction", "Performance management", "Closing"
+* Fullt kursansvar inklusive val av ny kurslitteratur, rekrytera lärarassistenter, arbetsledning av lärarassistenter (t.ex. instruera hur de ska rätta, fördelning av arbete), lägga upp kursen (vilka föreläsningar, när), boka in externa föreläsare, ta fram tenta och andra examineringsuppgifter, genomföra kursutvärdering
 
-Heading 3
+2015-2016
 ======
+Samma ansvar för att driva kursen som 2014 men färre egna föreläsningar.
+
+Var föräldraledig 2016-2017 och därefter över en annan kurs.
